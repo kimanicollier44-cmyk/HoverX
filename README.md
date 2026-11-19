@@ -1,4 +1,4 @@
-![HoverX cover](assets/cover.png)
+![HoverX cover](HoverX%20cover.png)
 
 # 🛸 HoverX — Personal Hover Vehicle Autopilot Lab
 
